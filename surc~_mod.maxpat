@@ -36,12 +36,12 @@
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "", "", "", "" ],
-					"patching_rect" : [ 295.0, 149.0, 103.0, 18.0 ],
+					"patching_rect" : [ 295.0, 149.0, 97.0, 18.0 ],
 					"saved_object_attributes" : 					{
 						"embed" : 0
 					}
 ,
-					"text" : "coll compact_loadlist"
+					"text" : "coll surc~loadlist.txt"
 				}
 
 			}
